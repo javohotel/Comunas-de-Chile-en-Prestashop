@@ -1,0 +1,22 @@
+{
+  "name": "comunas-de-chile-en-prestashop",
+  "version": "1.0.0",
+  "description": "Muestra las comunas de Chile en el campo City de prestashop",
+  "main": "comunas.js",
+  "scripts": {
+    "test": "comunas"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javohotel/Comunas-de-Chile-en-Prestashop.git"
+  },
+  "keywords": [
+    "comunas"
+  ],
+  "author": "Javier Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javohotel/Comunas-de-Chile-en-Prestashop/issues"
+  },
+  "homepage": "https://github.com/javohotel/Comunas-de-Chile-en-Prestashop#readme"
+}
